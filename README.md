@@ -1,1 +1,1 @@
-# Kaggle Submission for Binary Classification of Survival
+# Kaggle Submission for Titanic Dataset
